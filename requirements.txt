@@ -1,0 +1,16 @@
+fastapi
+uvicorn[gunicorn]
+psycopg2
+pydantic[email]
+alembic
+sqlalchemy
+python-dotenv
+redis
+elasticsearch
+requests
+python-jose[cryptography]
+passlib[argon2,bcrypt]
+python-multipart
+python-slugify
+openai
+langchain

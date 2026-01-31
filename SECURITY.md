@@ -23,7 +23,6 @@
 ```
 apps/backend/.env          ✓ Gitignored - safe to contain credentials
 apps/frontend/.env         ✓ Gitignored - safe to contain credentials
-apps/nextadmin/.env        ✓ Gitignored - safe to contain credentials
 ```
 
 These files are in `.gitignore` and will never be committed to the repository.
